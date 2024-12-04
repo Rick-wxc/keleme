@@ -215,11 +215,11 @@ public class OrderFragment extends Fragment {
                 18f, "暴打新鲜柠檬·甄选无香精鸭屎香单从茶，超大桶的清爽更解腻", R.drawable.lemond_square));
         drinks_array.add(new Drinks("芝芝玫影", 13f, "全新[玫影]玫瑰红茶，无香精自然玫瑰香·无奶精芝士，甜醇顺滑",
                 R.drawable.redtea_sq));
-        drinks_array.add(new Drinks("add01", 12f, "01甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
+        drinks_array.add(new Drinks("add01", 15f, "01甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
         drinks_array.add(new Drinks("add02", 15f, "02甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
-        drinks_array.add(new Drinks("add03", 16f, "03甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
+        drinks_array.add(new Drinks("add03", 15f, "03甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
         drinks_array.add(new Drinks("add04", 15f, "0400甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
