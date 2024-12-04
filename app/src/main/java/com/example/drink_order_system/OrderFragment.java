@@ -217,7 +217,7 @@ public class OrderFragment extends Fragment {
                 R.drawable.redtea_sq));
         drinks_array.add(new Drinks("add01", 15f, "01甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
-        drinks_array.add(new Drinks("add02", 15f, "02甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
+        drinks_array.add(new Drinks("add02", 50f, "02甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
         drinks_array.add(new Drinks("add03", 15f, "03甄选茶园定制绿妍茶底，淡雅芳幽，默认不加糖，0糖0卡轻负担",
                 R.drawable.greentea_sq));
