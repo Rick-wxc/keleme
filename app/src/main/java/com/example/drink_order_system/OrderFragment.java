@@ -192,7 +192,7 @@ public class OrderFragment extends Fragment {
                 R.drawable.yellow_sq));
         drinks_array.add(new Drinks("000东坡荔枝生椰露", 19f, "当季新鲜荔枝果肉·定制生椰乳·每日现制西米，椰椰荔香清甜交融",
                 R.drawable.coco_sq));
-        drinks_array.add(new Drinks("水牛乳·粉黛玫影", "\uD83C\uDF7C 浓郁牛乳茶",
+        drinks_array.add(new Drinks("000水牛乳·粉黛玫影", "\uD83C\uDF7C 浓郁牛乳茶",
                 15f, "无香精[玫影]玫瑰红茶·优选广西水牛乳调制奶底", R.drawable.pinkmilk_square));
         drinks_array.add(new Drinks("水牛乳双拼波波",
                 19f, "优选广西牧场水牛乳·水牛乳冻·慢数黑糖波波，口感甜腻不喜慎点", R.drawable.black_sq));
