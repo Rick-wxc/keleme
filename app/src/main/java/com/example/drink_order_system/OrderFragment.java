@@ -186,11 +186,11 @@ public class OrderFragment extends Fragment {
     }
 
     private void initData() {
-        drinks_array.add(new Drinks("牧场酸酪牛油果", "\uD83E\uDDE1 灵感上新",
+        drinks_array.add(new Drinks("000牧场酸酪牛油果", "\uD83E\uDDE1 灵感上新",
                 23f, "定制牧场奶源酸酪·百分百进口牛油果鲜果·不使用过你，清爽顺滑", R.drawable.avocado_square));
-        drinks_array.add(new Drinks("喜悦黄果茶", 19f, "匠心甄选黄色系水果·当季芒果·鲜制橙丁百香果，真果无香精",
+        drinks_array.add(new Drinks("000喜悦黄果茶", 19f, "匠心甄选黄色系水果·当季芒果·鲜制橙丁百香果，真果无香精",
                 R.drawable.yellow_sq));
-        drinks_array.add(new Drinks("东坡荔枝生椰露", 19f, "当季新鲜荔枝果肉·定制生椰乳·每日现制西米，椰椰荔香清甜交融",
+        drinks_array.add(new Drinks("000东坡荔枝生椰露", 19f, "当季新鲜荔枝果肉·定制生椰乳·每日现制西米，椰椰荔香清甜交融",
                 R.drawable.coco_sq));
         drinks_array.add(new Drinks("水牛乳·粉黛玫影", "\uD83C\uDF7C 浓郁牛乳茶",
                 15f, "无香精[玫影]玫瑰红茶·优选广西水牛乳调制奶底", R.drawable.pinkmilk_square));
