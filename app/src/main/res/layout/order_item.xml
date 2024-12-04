@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="2023年06月27日 20：38" />
+        android:text="2024年06月27日 20：38" />
 
     <LinearLayout
         android:layout_width="match_parent"

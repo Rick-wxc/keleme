@@ -89,7 +89,7 @@
                     android:layout_height="wrap_content"
                     android:background="@color/white"
                     android:padding="6dp"
-                    android:text="🧡 灵感上新"
+                    android:text="😎😎 灵感上新cnm"
                     android:textAlignment="center"
                     android:textColor="@color/black"
                     android:textSize="16sp"
